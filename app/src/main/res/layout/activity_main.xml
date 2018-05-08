@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <com.ljz.musicscaleview.SLoadingIndicatorView
+        android:id="@+id/sliv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:s_indicator_color="@color/colorPrimary"
+        app:s_indicator_one="three"
+        app:s_indicator_two="two"
+        app:s_indicator_three="one"
+        app:s_indicator_four="three"/>
+
+</LinearLayout>

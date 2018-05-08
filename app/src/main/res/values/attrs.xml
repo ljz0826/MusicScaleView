@@ -1,0 +1,25 @@
+<resources>
+    <declare-styleable name="SLoadingIndicatorView">
+        <attr name="s_indicator_color" format="color" />
+        <attr name="s_indicator_one" format="enum">
+            <enum name="one" value="1" />
+            <enum name="two" value="2" />
+            <enum name="three" value="3" />
+        </attr>
+        <attr name="s_indicator_two" format="enum">
+            <enum name="one" value="1" />
+            <enum name="two" value="2" />
+            <enum name="three" value="3" />
+        </attr>
+        <attr name="s_indicator_three" format="enum">
+            <enum name="one" value="1" />
+            <enum name="two" value="2" />
+            <enum name="three" value="3" />
+        </attr>
+        <attr name="s_indicator_four" format="enum">
+            <enum name="one" value="1" />
+            <enum name="two" value="2" />
+            <enum name="three" value="3" />
+        </attr>
+    </declare-styleable>
+</resources>
