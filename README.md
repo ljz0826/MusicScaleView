@@ -8,7 +8,7 @@ repositories {
     
 dependencies {
     ......
-    implementation 'com.github.ljz0826:MusicScaleView:1.0.0'
+    implementation 'com.github.ljz0826:MusicScaleView:1.0.1'
 }
 
 <com.ljz.musicscaleview.SLoadingIndicatorView
